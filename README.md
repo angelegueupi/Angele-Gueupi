@@ -11,6 +11,7 @@
 
 ## Additional Details 
 ### JC Citi Bike Analysis — Analyzed 30 days of vaccine and new case data to determine the current effects that vaccinations were having on new Covid case numbers.
+  [Citi-Bikes](Images/citi-bike-station-bikes.jpg)
 This project was completed by me.
 Collected, transformed and create vizualisations using Tableau accompanied by an analysis explaining why the phenomenon may be occurring. 
 
